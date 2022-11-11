@@ -1,0 +1,21 @@
+{
+  "name": "bsl-js",
+  "version": "1.0.0",
+  "description": "Унифицированная интеграция HTML-страниц со средой исполнения 1С",
+  "main": "index.js",
+  "type": "module",
+  "scripts": { },
+  "keywords": [
+    "bsl",
+    "1C",
+    "integration",
+    "html",
+    "javascript"
+  ],
+  "author": "serjmors@gmail.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/serjmors/bsl-js.git"
+  }
+}
