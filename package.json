@@ -1,6 +1,6 @@
 {
   "name": "bsl-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Унифицированная интеграция HTML-страниц со средой исполнения 1С",
   "main": "index.js",
   "type": "module",
